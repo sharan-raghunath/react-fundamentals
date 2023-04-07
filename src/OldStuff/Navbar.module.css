@@ -1,0 +1,4 @@
+:global .boldYellowText {
+    font-weight: bold;
+    color: yellow !important;
+}
